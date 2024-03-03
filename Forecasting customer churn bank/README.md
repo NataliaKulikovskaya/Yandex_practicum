@@ -22,5 +22,7 @@
 С использованием обработанных данных додели показали лучшие результаты. Наилучшее значение f1 было получено для модели случайного леса и использованием upsampling и составило 0.6.
 
 4) Выбранная модель прошла проверку на адекватность. параметр f1 = 0.61
+
+
 `sklearn`  `RandomForestClassifier` `LogisticRegression` `DecisionTreeClassifier` `Matplotlib` `seaborn` `NumPy`
 
